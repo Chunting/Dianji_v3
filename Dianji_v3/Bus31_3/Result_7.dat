@@ -1,0 +1,11 @@
+Result output by cplex
+Solution status	Optimal
+Solution value	1.78927e+006
+Solution time	17.1757
+EpGap	0.001
+UpCost	4877
+FuelCostsum	1.7825e+006
+OutputProfile	1150.08
+OutputRCost	738.345
+OutputRNCost	19842.5
+allFuelCost	1.7825e+006

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dianji_v3", "Dianji_v3\Dianji_v3.vcproj", "{D34D28A3-798B-4029-9AE4-D37028E79AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34D28A3-798B-4029-9AE4-D37028E79AB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D34D28A3-798B-4029-9AE4-D37028E79AB1}.Debug|Win32.Build.0 = Debug|Win32
+		{D34D28A3-798B-4029-9AE4-D37028E79AB1}.Release|Win32.ActiveCfg = Release|Win32
+		{D34D28A3-798B-4029-9AE4-D37028E79AB1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
